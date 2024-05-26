@@ -1,0 +1,2 @@
+use pizzariaDB;
+show tables;
